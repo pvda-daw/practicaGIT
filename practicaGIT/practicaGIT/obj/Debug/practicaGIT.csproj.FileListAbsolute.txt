@@ -8,3 +8,13 @@ C:\Users\pedro\source\repos\pvda-daw\practicaGIT\practicaGIT\practicaGIT\obj\Deb
 C:\Users\pedro\source\repos\pvda-daw\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.csproj.CoreCompileInputs.cache
 C:\Users\pedro\source\repos\pvda-daw\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.exe
 C:\Users\pedro\source\repos\pvda-daw\practicaGIT\practicaGIT\practicaGIT\obj\Debug\practicaGIT.pdb
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\bin\Debug\practicaGIT.exe.config
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\bin\Debug\practicaGIT.exe
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\bin\Debug\practicaGIT.pdb
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\obj\Debug\practicaGIT.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\obj\Debug\practicaGIT.Form1.resources
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\obj\Debug\practicaGIT.Properties.Resources.resources
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\obj\Debug\practicaGIT.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\obj\Debug\practicaGIT.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\obj\Debug\practicaGIT.exe
+C:\Users\pedro\source\repos\pvda-daw\practicaGit-colaborador\practicaGIT\practicaGIT\obj\Debug\practicaGIT.pdb
